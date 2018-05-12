@@ -1,0 +1,30 @@
+_repo: AnitaSouvenirs-d-un-contre-gu-rillas_23848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaugrand, Honoré
+    alias: Beaugrand, Honore
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '5567'
+    url: http://www.gutenberg.org/2009/agents/5567
+    wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23848'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- History -- European intervention, 1861-1867 -- Personal narratives,
+  Canadian'
+- !lcc 'F1201'
+title: 'Anita: Souvenirs d''un contre-guérillas'
+url: http://www.gutenberg.org/ebooks/23848
