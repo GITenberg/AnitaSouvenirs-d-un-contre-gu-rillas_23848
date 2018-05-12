@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5567
     wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23848#AnitaSouvenirs-d-un-contre-gu-rillas
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2007-12-13'
 gutenberg_type: Text
